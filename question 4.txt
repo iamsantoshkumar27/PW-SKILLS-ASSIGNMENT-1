@@ -1,0 +1,4 @@
+comma operater :
+1)  it executes value from left to right operand..
+2)  it is mostly used in loops etc..
+3)  it also used to create compound expression and act as separator
